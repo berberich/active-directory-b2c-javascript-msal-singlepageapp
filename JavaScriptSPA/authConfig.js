@@ -7,7 +7,7 @@
 const msalConfig = {
   auth: {
     clientId: "1fced690-533a-47f3-bcb8-87645da91717",
-    authority: "https://berberichb2c.b2clogin.com/berberichb2c.onmicrosoft.com/B2C_1A_TrustFrameworkBase",
+    authority: "https://berberichb2c.b2clogin.com/berberichb2c.onmicrosoft.com/B2C_1_signupsignin1",
     validateAuthority: false
   },
   cache: {
